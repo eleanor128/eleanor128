@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning how to have 25 hours aday
+
+
 <!--
 **eleanor128/eleanor128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
