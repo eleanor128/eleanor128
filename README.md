@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning how to have 25 hours aday
+🌱 I’m currently learning how to have 25 hours aday  
 😥 Hope I can survive this semester
 
 
