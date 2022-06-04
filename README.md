@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Eleanor👋
 
-![image](https://user-images.githubusercontent.com/83395975/172010435-e7942f71-10ea-4ab9-80c1-13a935a46608.png)
-
-
+🎓 Study at NCU  
+💻 Major in Information Management  
 🌱 I’m currently learning how to have 25 hours aday  
 😥 Hope I can survive this semester
 
