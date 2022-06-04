@@ -13,7 +13,7 @@
 🌱 I’m currently learning algorithm which is veeeeeeery difficult to me
 😥 Hope I can survive this semester
 
-⚡ Short funny joke time!!
+⚡ Have some joke!!
 >Hear about the new restaurant called Karma?  
 >There’s no menu: You get what you deserve.
 
