@@ -1,7 +1,5 @@
 ### Hi there, I'm Eleanor👋
 
-### Hi there, I'm Eleanor👋
-
 🎓 Study at NCU  
 💻 Major in Information Management 
 
