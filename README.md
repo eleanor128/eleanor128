@@ -1,7 +1,7 @@
 ### Hi there, I'm Eleanor👋
 
-🎓 Study at NCU  
-💻 Major in Information Management 
+🎓 NCU  
+
 
 <!--
 **eleanor128/eleanor128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
