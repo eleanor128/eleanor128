@@ -2,6 +2,10 @@
 
 
 ![Eleanor's GitHub stats](https://github-readme-stats.vercel.app/api?username=eleanor128&show_icons=true&theme=cobalt)
+
+
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+
 <!--
 **eleanor128/eleanor128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
