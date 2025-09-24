@@ -1,11 +1,8 @@
-<table width="100%">
-  <tr>
-    <td align="left"><h2>👋 Hi</h2></td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=eleanor128&label=visitors&color=0e75b6&style=flat" alt="visitors"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2>👋 Hi</h2>
+  <img src="https://komarev.com/ghpvc/?username=eleanor128&label=visitors&color=0e75b6&style=flat" alt="visitors"/>
+</div>
+
 
 - 💼 I’m currently working as a **Data Analysis Intern**, focusing on data cleaning and building BI dashboards.  
 - 🎓 I’m pursuing my **Master’s degree in Information Management** at National Central University, Taiwan.
