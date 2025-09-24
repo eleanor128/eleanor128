@@ -4,7 +4,7 @@
 ![Eleanor's GitHub stats](https://github-readme-stats.vercel.app/api?username=eleanor128&show_icons=true&theme=cobalt)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleanor128)](https://github.com/eleanor128/github-readme-stats&langs_count=8&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleanor128&langs_count=8&layout=compact)
 
 <!--
 **eleanor128/eleanor128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
