@@ -1,17 +1,11 @@
-## 👋 Hi  
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=eleanor128&label=visitors&color=0e75b6&style=flat" alt="visitors"/>
 </p>
 
-- 💼 I’m currently working as a **Data Analysis Intern**, focusing on data cleaning and building BI dashboards.  
-- 🎓 I’m pursuing my **Master’s degree in Information Management** at National Central University, Taiwan.
-
-
+## 👋 Hi  
 
 - 💼 I’m currently working as a **Data Analysis Intern**, focusing on data cleaning and building BI dashboards.  
 - 🎓 I’m pursuing my **Master’s degree in Information Management** at National Central University, Taiwan.
-
 
 ## ⚓What I Use
 
