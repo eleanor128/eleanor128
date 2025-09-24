@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Eleanor's GitHub stats](https://github-readme-stats.vercel.app/api?username=eleanor128&show_icons=true&theme=cobalt)
 <!--
 **eleanor128/eleanor128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
