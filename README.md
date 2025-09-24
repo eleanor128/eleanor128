@@ -1,4 +1,5 @@
 ## 👋Hi 
+![visitors](https://komarev.com/ghpvc/?username=eleanor128&label=Profile%20views&color=0e75b6&style=flat)
 
 - 💼 I’m currently working as a **Data Analysis Intern**, focusing on data cleaning and building BI dashboards.  
 - 🎓 I’m pursuing my **Master’s degree in Information Management** at National Central University, Taiwan.
