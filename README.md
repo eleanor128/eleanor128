@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋Hi 
 
 - 💼 I’m currently working as a **Data Analysis Intern**, focusing on data cleaning and building BI dashboards.  
 - 🎓 I’m pursuing my **Master’s degree in Information Management** at National Central University, Taiwan.
