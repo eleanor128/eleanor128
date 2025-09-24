@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+- 💼 I’m currently working as a **Data Analysis Intern**, focusing on data cleaning and building BI dashboards.  
+- 🎓 I’m pursuing my **Master’s degree in Information Management** at National Central University, Taiwan.
 
-## What I Use
+
+## ⚓What I Use
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
